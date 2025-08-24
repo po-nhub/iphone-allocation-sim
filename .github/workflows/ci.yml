@@ -24,3 +24,10 @@ jobs:
           python -m src.forecast --horizon 4
           python -m src.allocation --horizon 4 --supply_ratio 0.9 --min_service 0.85
           python -m src.metrics_and_plots --horizon 4 --min_service 0.85
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: reports
+          path: |
+            reports/*.png
+            reports/*.csv
