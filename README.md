@@ -15,3 +15,6 @@ pip install -r requirements.txt
 ./run.sh
 ```
 
+
+## Recruiter summary
+See: reports/summary.md
