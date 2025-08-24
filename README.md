@@ -1,4 +1,7 @@
 # iPhone Allocation Simulator
+[![CI](https://github.com/po-nhub/iphone-allocation-sim/actions/workflows/ci.yml/badge.svg)](https://github.com/po-nhub/iphone-allocation-sim/actions)
+![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 Demand forecasting (ARIMA) + allocation optimization (LP via PuLP) for regional iPhone launch.
 
 ## 🔥 TL;DR (Screenshots)
