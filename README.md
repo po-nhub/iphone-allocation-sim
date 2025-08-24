@@ -18,3 +18,6 @@ pip install -r requirements.txt
 
 ## Recruiter summary
 See: reports/summary.md
+
+## Forecast panels (per region)
+<img src="reports/forecast_demo.png" width="100%" />
