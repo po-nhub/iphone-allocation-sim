@@ -21,3 +21,5 @@ See: reports/summary.md
 
 ## Forecast panels (per region)
 <img src="reports/forecast_demo.png" width="100%" />
+
+![CI](https://github.com/po-nhub/iphone-allocation-sim/actions/workflows/ci.yml/badge.svg)
